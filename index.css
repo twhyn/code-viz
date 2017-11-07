@@ -85,6 +85,6 @@ body > h1 {
   height: 2px;
 }
 
-.pace-running .showcase {
-  display: none;
+.pace-running > *:not(.pace) {
+  opacity:0;
 }
