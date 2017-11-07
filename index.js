@@ -22,5 +22,4 @@ $(function() {
   })
 
   $('.showcase').append(holder);
-
 });
